@@ -1,0 +1,13 @@
+
+resetpassword
+
+    {
+        "email" : ""
+    }
+
+signin
+
+    {
+        "email":"",
+        "password" :"",
+    }
