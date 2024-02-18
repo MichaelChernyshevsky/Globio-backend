@@ -3,7 +3,7 @@ from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 # file dependencies
 from main import app
-from data.sql import SomeClass
+from save.sql import SomeClass
 # func
 from func.func import getExample
 # constants 
